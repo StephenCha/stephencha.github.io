@@ -1,7 +1,11 @@
-- title: OpenGL
-  desc: I love to use OpenGL.
-  icon: assets/images/services-icon-opengl.png
+- title: Pangyo AI Camp
+  desc: 1st Prize, A classification model of risk behavior for children's road walking to protect children and the transportation vulnerable.
+  icon: assets/images/services-icon-gbsa.png
 
-- title: Adobe Photoshop
-  desc: I have the Adobe Certificate Professional certification.
-  icon: assets/images/services-icon-brush.png
+- title: Pangyo AI Camp
+  desc: 3rd Prize, Classification of whether to wear a mask to prevent COVID-19.
+  icon: assets/images/services-icon-gbsa.png
+
+- title: EXCEL Creative Comprehensive Design Competition
+  desc: Manufacturing smart air conditioners using Peltier devices.
+  icon: assets/images/services-icon-hanyang.png

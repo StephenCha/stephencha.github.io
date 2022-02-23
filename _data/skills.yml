@@ -1,23 +1,23 @@
+- title: Pytorch
+  desc: I can native build-up ML models using Pytorch.
+  progress: 60%
+
+- title: OpenGL
+  desc: Using PyOpenGL, I can modify rendering codes.
+  progress: 40%
+
+- title: 3D rendering
+  desc: Pytorch3D, Pyrender
+  progress: 30%
+
+- title: Visualization
+  desc: TensorBoard, W&B, Matplotlib, Pandas
+  progress: 80%
+
+- title: Mediawiki
+  desc: I am a big fan of the MediaWiki project.
+  progress: 40%
+
 - title: Adobe Photoshop
-  desc: 
-  progress: 75%
-
-- title: Web Design
-  desc: 
-  progress: 68% 
-
-- title: Back-End Development
-  desc: 
-  progress: 90%
-
-- title: Javascript
-  desc: 
-  progress: 55%
-
-- title: Python
-  desc: 
-  progress: 88% 
-
-- title: Adobe Photoshop
-  desc: 
+  desc: I handle almost every function in Photoshop.
   progress: 50%
