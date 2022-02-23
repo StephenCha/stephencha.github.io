@@ -7,4 +7,3 @@ image: /assets/images/single-blog-img2.jpg
 post_id: 1
 ---
 I am excited to make my portfolio site!
-
